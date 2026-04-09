@@ -1,0 +1,14 @@
+C:\C# Level 4\151.StudentManagement\bin\Debug\net10.0\151.StudentManagement.exe
+C:\C# Level 4\151.StudentManagement\bin\Debug\net10.0\151.StudentManagement.deps.json
+C:\C# Level 4\151.StudentManagement\bin\Debug\net10.0\151.StudentManagement.runtimeconfig.json
+C:\C# Level 4\151.StudentManagement\bin\Debug\net10.0\151.StudentManagement.dll
+C:\C# Level 4\151.StudentManagement\bin\Debug\net10.0\151.StudentManagement.pdb
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\151.StudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\151.StudentManagement.AssemblyInfoInputs.cache
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\151.StudentManagement.AssemblyInfo.cs
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\151.StudentManagement.csproj.CoreCompileInputs.cache
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\151.StudentManagement.dll
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\refint\151.StudentManagement.dll
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\151.StudentManagement.pdb
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\151.StudentManagement.genruntimeconfig.cache
+C:\C# Level 4\151.StudentManagement\obj\Debug\net10.0\ref\151.StudentManagement.dll
